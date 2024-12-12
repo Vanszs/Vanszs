@@ -1,27 +1,33 @@
-# Hi there, I'm Vanszs! 👋
+# Hi, I'm Vanszs! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer specializing in **blockchain development**, **web technologies**, and **open-source contributions**. My goal is to leverage technology to create innovative solutions and empower communities.
+Welcome to my GitHub profile! I’m a multi-disciplinary developer specializing in **machine learning**, **blockchain development**, and **web3 automation**. With a strong foundation in computer vision, genetic algorithms, and smart contracts, I aim to bridge the gap between cutting-edge technology and real-world applications. Additionally, I thrive as a **community manager** in blockchain communities, driving engagement and innovation.
 
 ---
 
 ## 🚀 About Me
 
-- 🌟 **Expertise**: Blockchain (Ethereum, Solidity, Motoko ICP), Web Development (React, Node.js), Smart Contract Development
-- 💡 **Current Focus**: Building decentralized applications (dApps) and exploring Layer 2 solutions
-- 🌍 **Collaborations**: Open to working on impactful blockchain and web projects
-- 🎓 **Continuous Learner**: Always exploring new technologies and tools
+- 🌟 **Specialties**:
+  - **Machine Learning**: Computer vision, genetic algorithms, evolution strategies, and object detection using YOLO.
+  - **Blockchain Development**: Smart contract design, web3 scripting, and decentralized applications (dApps).
+  - **Web3 Automation**: Building bots with Selenium for web3 processes and automating blockchain interactions.
+  - **Community Management**: Experienced in moderating and managing blockchain communities to foster growth and engagement.
+  
+- 🎯 **Current Focus**: Exploring decentralized solutions, AI integration with blockchain, and advancing web3 tools.
+
+- 🌍 **Collaboration**: Open to collaborating on machine learning, blockchain, or community-driven projects.
 
 ---
 
 ## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Solidity](https://img.shields.io/badge/-Solidity-gray?style=flat-square&logo=solidity)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Solidity](https://img.shields.io/badge/-Solidity-gray?style=flat-square&logo=solidity)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Truffle](https://img.shields.io/badge/-Truffle-brown?style=flat-square&logo=truffle)
+![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=selenium)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
 
@@ -44,6 +50,36 @@ A blockchain-based event management system with decentralized ticketing and smar
   - ETH-to-USD conversion for payments
   - Decentralized ticket verification
 
+### [Carv-Bot](https://github.com/Vanszs/Carv-Bot) (Private)
+A web3 bot automating the creation of Carv accounts for seamless integration into blockchain ecosystems.
+
+- **Tech Stack**: Python, Selenium, Web3
+- **Features**:
+  - Automated wallet and account creation
+  - Integrated with blockchain APIs
+  - User-friendly automation interface
+
+### [Evolution Strategies](https://github.com/Vanszs/Evolution_Strategies)
+Machine learning models optimized using genetic algorithms and evolutionary computation.
+
+- **Tech Stack**: Python
+- **Features**:
+  - Optimization using evolution strategies
+  - Extensible for advanced ML projects
+
+### [HotWalletBot](https://github.com/Vanszs/HotWalletBot)
+A secure and efficient bot for managing web3 hot wallets and transactions.
+
+---
+
+## 🌐 Contributions to Web3 Automation
+
+I actively develop bots for web3 automation to streamline processes in decentralized ecosystems. Some notable projects include:
+
+- **OmniBot**: automation for Omni account create automation.
+- **Wave-Bot**: Automated blockchain Airdrop for auto claiming.
+- **HotWalletbot**: Automation For Auto Claim on HotWallet airdrop.
+
 ---
 
 ### [Other Notable Repositories](https://github.com/Vanszs?tab=repositories)
@@ -55,9 +91,9 @@ A blockchain-based event management system with decentralized ticketing and smar
 
 ## 📫 Get in Touch
 
-- **Email**: [vanszs@example.com](mailto:vanszs@example.com)
-- **LinkedIn**: [Vanszs](https://www.linkedin.com/in/vanszs/)
-- **Twitter**: [@vanszs](https://twitter.com/vanszs)
+- **Email**: [bevansatria@gmail.com](bevansatria@gmail.com)
+- **LinkedIn**: [Vanszs](https://www.linkedin.com/in/bevansatria/)
+- **Twitter**: [@vanszs](https://twitter.com/yourjungler)
 - **Website**: [Vanszs's Portfolio](https://github.com/Vanszs)
 
 ---
