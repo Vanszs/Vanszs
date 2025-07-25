@@ -1,5 +1,8 @@
-# 👋 Hi, I'm Vanszs - Full-Stack Developer & Innovation Architect
+# 👋 Hi, I'm Vanszs - Gen Z Developer who loved vibe coding
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Enthusiast;AI%2FML+Specialist;Web3+Automation+Expert;Community+Builder" alt="Typing SVG" />
+</div>
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanszs&color=0e75b6&style=flat)
@@ -166,32 +169,48 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - **Enterprise Security Focus**: 100% secure authentication implementations
 
 ---
+## 🏗️ Portfolio Projects by Category
 
-## 🚀 **Notable Project Categories**
+### 🏛️ **Government & Civic Tech** (2024-2025)
+- **[🌐 Simokerto PINTAR Web](https://github.com/Vanszs/Luaran_Website_Keluarahan_Simokerto)** - Next.js admin dashboard with enterprise security
+- **[📱 Citizen Report App](https://github.com/Vanszs/Flutter_Aplikasi_Pintar_Kelurahan)** - Flutter app with offline/online sync
+- **[👮 Officer Management App](https://github.com/Vanszs/Aplikasi_Pintar_Petugas)** - Real-time notification system
 
-### 🏢 **Enterprise & Government Solutions**
-- **[Simokerto PINTAR Ecosystem](https://github.com/Vanszs/Luaran_Website_Keluarahan_Simokerto)** - Complete smart city digitalization
-- **[IGS Internship Web](https://github.com/Vanszs/Magang_Web_IGS)** - Corporate web application with team collaboration
+### 💼 **Professional & Internship** (2024)
+- **[🏢 IGS Internship Web](https://github.com/Vanszs/Magang_Web_IGS)** - TypeScript enterprise web application
+- **[📱 IGS Flutter Project](https://github.com/Vanszs/Flutter_Project_IGS_Magang)** - Cross-platform mobile development
+- **[🛒 E-commerce TALL Stack](https://github.com/Vanszs/MINIMAL-ECOMERCE-TALL-STACK)** - Laravel, Tailwind, Livewire
 
-### 🤖 **AI & Machine Learning**
-- **[Arcalis Decentralized AI](https://github.com/Vanszs/Manta-Hackaton-v1.0)** - Privacy-first AI ecosystem
-- **[Evolution Strategies Algorithm](https://github.com/Vanszs/Evolution_Strategies)** - Smart optimization algorithms
-- **[Transformer Sentiment Analysis](https://github.com/Vanszs/Transformer_Sentiment_Analyze)** - NLP processing implementation
+### ⛓️ **Blockchain & Web3** (2024)
+- **[🎫 ICP BlockTix Contract](https://github.com/Vanszs/ICP-BlockTix-Contract)** - Solidity smart contracts for ticketing
+- **[🏆 Manta Hackathon](https://github.com/Vanszs/Manta-Hackaton-v1.0)** - TypeScript DeFi application
+- **[📊 D.A.T.A Framework](https://github.com/Vanszs/d.a.t.a)** - AI Agent data authentication (Forked & Enhanced)
+- **[🔧 Web3 Scripts](https://github.com/Vanszs/web3-scripts)** - Python automation tools
+- **[⚡ MEV Toolkit](https://github.com/Vanszs/mev-toolkit)** - Shell scripts for MEV operations
 
-### ⛓️ **Blockchain & Web3**
-- **[BlockTix Event Management](https://github.com/Vanszs/ICP-BlockTix-Contract)** - Smart contract ticketing system
-- **[Carv AutoTx](https://github.com/Vanszs/Carv_AutoTx)** - Automated blockchain transactions
-- **[Web3 Scripts Collection](https://github.com/Vanszs/web3-scripts)** - Utility scripts for blockchain development
+### 🤖 **AI/ML & Automation** (2024)
+- **[🧠 Transformer Sentiment Analysis](https://github.com/Vanszs/Transformer_Sentiment_Analyze)** - Advanced NLP models
+- **[🧬 Evolution Strategies](https://github.com/Vanszs/Evolution_Strategies)** - Genetic algorithms implementation
+- **[🚗 YOLO Autonomous](https://github.com/Vanszs/yolo-autonomus)** - Computer vision for autonomous systems
+- **[📋 Logbook Automation](https://github.com/Vanszs/Silaturahmi-Logbook-Automation)** - Python workflow automation
 
-### 🤖 **Automation & Bots**
-- **[HotWallet Bot](https://github.com/Vanszs/HotWalletBot)** - Cryptocurrency wallet automation (1⭐)
-- **[Multiple Bot Solutions](https://github.com/Vanszs?tab=repositories&q=bot)** - WhatsApp, Telegram, and utility bots
-- **[MEV Toolkit](https://github.com/Vanszs/mev-toolkit)** - Maximal Extractable Value tools
+### 🤖 **Trading & Automation Bots** (2024)
+- **[💰 HotWallet Bot](https://github.com/Vanszs/HotWalletBot)** - Web3 wallet automation (1⭐)
+- **[🌊 Wave Bot](https://github.com/Vanszs/Wave-Bot)** - Blockchain airdrop automation
+- **[🚀 Omni Bot](https://github.com/Vanszs/OnmiBot)** - Multi-chain account creation
+- **[😂 Meme Bot](https://github.com/Vanszs/MemeBot)** - Social media automation
+- **[🎯 Va Bot](https://github.com/Vanszs/Va)** - JavaScript automation framework
 
-### 🎨 **Creative & UI Projects**
-- **[Portfolio Website](https://github.com/Vanszs/Vanszs.github.io)** - Personal showcase site
-- **[Creative Web Templates](https://github.com/Vanszs?tab=repositories&q=html)** - Various HTML/CSS design experiments
+### 🌐 **Web Development & Design** (2024)
+- **[🌊 Nautical Nusantara](https://github.com/Vanszs/NauticalNusantara)** - Maritime-themed website
+- **[🌸 Flower HTML](https://github.com/Vanszs/Flower-html)** - Creative CSS animations
+- **[🎨 Kadoo](https://github.com/Vanszs/kadoo)** - Modern UI components
+- **[❄️ Login Yeti](https://github.com/Vanszs/Login-yeti)** - Creative login interface
+- **[📱 Personal Portfolio Sites](https://github.com/Vanszs/Vanszs.github.io)** - HTML/CSS showcases
 
+### 🛡️ **Security & Tools** (2024)
+- **[🔒 Free Proxy](https://github.com/Vanszs/Free-Proxy)** - Proxy list management (Forked & Enhanced)
+- **[⚡ MikuMiku Beam DDoS](https://github.com/Vanszs/MikuMikuBeamDDOS)** - Network stress testing (13⭐, Forked & Enhanced)
 ---
 
 ## 🏆 **Professional Achievements**
@@ -221,7 +240,7 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vanszs_dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vanszs)
 
-**📧 Email**: [vanszs.dev@gmail.com](mailto:vanszs.dev@gmail.com)
+**📧 Email**: [bevansatria@gmail.com](mailto:vanszs.dev@gmail.com)
 **🌍 Location**: Indonesia
 **💼 Open to**: Freelance Projects, Collaborations, Full-time Opportunities
 
