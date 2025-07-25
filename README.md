@@ -251,7 +251,7 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vanszs&theme=tokyo-night&hide_border=true&area=true)
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanszs&theme=react-dark&hide_border=true" />
 
 </div>
 
