@@ -12,7 +12,7 @@
 
 **🤖 "I'm not that smart, but with AI, I can be as good as anyone!"**
 
-*The Guy Who Built Government Apps in 3 Weeks (Thanks to AI Pair Programming) 🤝*
+*I built 2 apps + 1 site for gov in just 2 week (Thanks to AI Pair Programming) 🤝*
 
 </div>
 
