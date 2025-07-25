@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Vanszs - Gen Z Developer who loved vibe coding
+# 👋 Hi, I'm Vanszs - The AI-Powered Solo Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Enthusiast;AI%2FML+Specialist;Web3+Automation+Expert;Community+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI+%2B+Me+%3D+Unstoppable;Solo+Developer+with+AI+Superpowers;From+Zero+to+Hero+in+3+Weeks;Full-Stack+with+AI+Assistance;Not+That+Smart%2C+But+AI+Makes+Me+Look+Genius" alt="Typing SVG" />
 </div>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanszs&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/vanszs?label=Followers&style=social)](https://github.com/vanszs)
 [![GitHub User's stars](https://img.shields.io/github/stars/vanszs?affiliations=OWNER&style=social)](https://github.com/vanszs)
 
-**🚀 Building the Future with Code, One Project at a Time**
+**🤖 "I'm not that smart, but with AI, I can be as good as anyone!"**
 
-*Full-Stack Developer | Blockchain Enthusiast | AI Innovation Pioneer | Mobile App Creator*
+*The Guy Who Built Government Apps in 3 Weeks (Thanks to AI Pair Programming) 🤝*
 
 </div>
 
