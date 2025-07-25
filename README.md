@@ -10,9 +10,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/vanszs?label=Followers&style=social)](https://github.com/vanszs)
 [![GitHub User's stars](https://img.shields.io/github/stars/vanszs?affiliations=OWNER&style=social)](https://github.com/vanszs)
 
-**🤖 "I'm not that smart, but with AI, I can be as good as anyone!"**
+**🗣️ "I'm not that smart, but with AI, I can be as good as anyone! 🦅"**
 
-*I built 2 apps + 1 site for gov in just 2 week (Thanks to AI Pair Programming) 🤝*
+*I built 2 apps + 1 site for gov in just 2 week 💀 (Thanks to AI Pair Programming) 🤝*
 
 </div>
 
@@ -45,8 +45,7 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 </div>
 
 **📊 Project Impact:**
-- **150+ Commits** across 3 integrated applications
-- **6+ Months** of active development
+- **2 Weeks** of active development
 - **Enterprise-grade security** with bcrypt, rate limiting, CSRF protection
 - **Real-time communication** via WebSocket & Firebase FCM
 - **Multi-role management** (4 access levels)
@@ -196,14 +195,14 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - **[📋 Logbook Automation](https://github.com/Vanszs/Silaturahmi-Logbook-Automation)** - Python workflow automation
 
 ### 🤖 **Trading & Automation Bots** (2024)
-- **[💰 HotWallet Bot](https://github.com/Vanszs/HotWalletBot)** - Web3 wallet automation (1⭐)
+- **[💰 HotWallet Bot](https://github.com/Vanszs/HotWalletBot)** - Web3 wallet automation bot
 - **[🌊 Wave Bot](https://github.com/Vanszs/Wave-Bot)** - Blockchain airdrop automation
-- **[🚀 Omni Bot](https://github.com/Vanszs/OnmiBot)** - Multi-chain account creation
-- **[😂 Meme Bot](https://github.com/Vanszs/MemeBot)** - Social media automation
-- **[🎯 Va Bot](https://github.com/Vanszs/Va)** - JavaScript automation framework
+- **[🚀 Omni Bot](https://github.com/Vanszs/OnmiBot)** - Multi-chain account creation bot
+- **[😂 Meme Bot](https://github.com/Vanszs/MemeBot)** - Memefi airdrop automation
+- **[🎯 Va Bot](https://github.com/Vanszs/Va)** - Whatsapp JavaScript automation framework
 
 ### 🌐 **Web Development & Design** (2024)
-- **[🌊 Nautical Nusantara](https://github.com/Vanszs/NauticalNusantara)** - Maritime-themed website
+- **[🌊 Nautical Nusantara](https://github.com/Vanszs/NauticalNusantara)** - Competition website 
 - **[🌸 Flower HTML](https://github.com/Vanszs/Flower-html)** - Creative CSS animations
 - **[🎨 Kadoo](https://github.com/Vanszs/kadoo)** - Modern UI components
 - **[❄️ Login Yeti](https://github.com/Vanszs/Login-yeti)** - Creative login interface
@@ -237,9 +236,9 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://vanszs.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanszs)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vanszs_dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vanszs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bevansatria)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourjungler)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/belugaa99)
 
 **📧 Email**: [bevansatria@gmail.com](mailto:vanszs.dev@gmail.com)
 **🌍 Location**: Indonesia
