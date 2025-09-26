@@ -75,31 +75,6 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 
 ---
 
-### 💰 **Advanced Trading & Crypto Ecosystem**
-*Professional trading automation suite with multi-exchange support*
-
-<div align="center">
-
-[![Crypto Trading](https://img.shields.io/badge/💰%20Indodax%20API-Python%20Trading-gold?style=for-the-badge)](https://github.com/Vanszs/TugasPemrogrammanCrypto_IndodaxBybitAPI)
-[![Bybit AutoTrade](https://img.shields.io/badge/🚀%20Bybit%20AutoTrade-Automation-orange?style=for-the-badge)](https://github.com/Vanszs/Bybit_AutoTrade)
-[![Toolify Scraper](https://img.shields.io/badge/🔧%20Toolify%20Scraper-Data%20Mining-green?style=for-the-badge)](https://github.com/Vanszs/toolify_scrap)
-
-</div>
-
-**📈 Trading Features:**
-- **Multi-Exchange Integration**: Indodax & Bybit API automation
-- **Real-time Market Analysis**: Advanced scraping for market insights
-- **Automated Trading Strategies**: Risk management and portfolio optimization
-- **Data Mining Tools**: Market sentiment and trend analysis
-
-**⚙️ Tech Stack:**
-- **Backend**: Python, REST APIs, WebSocket connections
-- **Data Processing**: Pandas, NumPy for market analysis
-- **Security**: API key management and secure trading protocols
-- **Automation**: Scheduled trading and monitoring systems
-
----
-
 ### 🤖 **Arcalis - Decentralized AI Ecosystem**
 *World's first privacy-first AI platform with community governance*
 
@@ -135,19 +110,6 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - **17 Commits** of blockchain development
 - **Multiple Networks** deployment ready
 - **React Frontend** with Web3 integration
-
----
-
-### 📁 **Collaborative Development Platform**
-*Archive and collaboration tools for team projects*
-
-[![Collab Archive](https://img.shields.io/badge/📁%20Collab%20Archive-Team%20Collaboration-teal?style=for-the-badge)](https://github.com/Vanszs/collab-archive)
-
-**🤝 Collaboration Features:**
-- **Project Archiving**: Organized storage for team projects
-- **Version Control**: Advanced Git workflows for team collaboration
-- **Documentation Hub**: Centralized knowledge base
-- **Resource Management**: Shared assets and tools
 
 ---
 
@@ -227,9 +189,11 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - **[👮 Officer Management App](https://github.com/Vanszs/Aplikasi_Pintar_Petugas)** - Real-time notification system with IoT siren control
 
 ### 💰 **Trading & Financial Tech** (2024-2025)
-- **[📈 Crypto API Integration](https://github.com/Vanszs/TugasPemrogrammanCrypto_IndodaxBybitAPI)** - Multi-exchange trading automation
+- **[📈 Crypto API Integration](https://github.com/Vanszs/TugasPemrogrammanCrypto_IndodaxBybitAPI)** - Multi-exchange trading automation with Indodax and Bybit APIs
 - **[🚀 Bybit AutoTrade](https://github.com/Vanszs/Bybit_AutoTrade)** - Advanced trading bot with risk management
-- **[🔧 Toolify Scraper](https://github.com/Vanszs/toolify_scrap)** - Market data mining and analysis
+
+### 🔍 **Data Mining & Scraping** (2024-2025)
+- **[🔧 Toolify Scraper](https://github.com/Vanszs/toolify_scrap)** - Tool for scraping shared account data from Toolify browser extension
 
 ### 🤝 **Collaboration & Archive** (2024-2025)
 - **[📁 Collab Archive](https://github.com/Vanszs/collab-archive)** - Team collaboration and project archiving platform
@@ -252,12 +216,19 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - **[🚗 YOLO Autonomous](https://github.com/Vanszs/yolo-autonomus)** - Computer vision for autonomous systems
 - **[📋 Logbook Automation](https://github.com/Vanszs/Silaturahmi-Logbook-Automation)** - Python workflow automation
 
-### 🤖 **Trading & Automation Bots** (2024)
+### 🤖 **Automation Bots** (2024)
 - **[💰 HotWallet Bot](https://github.com/Vanszs/HotWalletBot)** - Web3 wallet automation bot
 - **[🌊 Wave Bot](https://github.com/Vanszs/Wave-Bot)** - Blockchain airdrop automation
 - **[🚀 Omni Bot](https://github.com/Vanszs/OnmiBot)** - Multi-chain account creation bot
 - **[😂 Meme Bot](https://github.com/Vanszs/MemeBot)** - Memefi airdrop automation
 - **[🎯 Va Bot](https://github.com/Vanszs/Va)** - WhatsApp JavaScript automation framework
+
+### 🌐 **Web Development & Design** (2024)
+- **[🌊 Nautical Nusantara](https://github.com/Vanszs/NauticalNusantara)** - Competition website 
+- **[🌸 Flower HTML](https://github.com/Vanszs/Flower-html)** - Creative CSS animations
+- **[🎨 Kadoo](https://github.com/Vanszs/kadoo)** - Modern UI components
+- **[❄️ Login Yeti](https://github.com/Vanszs/Login-yeti)** - Creative login interface
+- **[📱 Personal Portfolio Sites](https://github.com/Vanszs/Vanszs.github.io)** - HTML/CSS showcases
 
 ### 🛡️ **Security & Tools** (2024)
 - **[🔒 Free Proxy](https://github.com/Vanszs/Free-Proxy)** - Proxy list management (Forked & Enhanced)
@@ -274,6 +245,7 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - ✅ **AI Integration Expert** - Built multi-model orchestration platforms
 - ✅ **IoT Innovation Leader** - Integrated hardware control with software systems
 - ✅ **Trading Automation Expert** - Multi-exchange automated trading systems
+- ✅ **Data Mining Specialist** - Built specialized scraping tools for various platforms
 - ✅ **Open Source Contributor** - 46+ public repositories with comprehensive documentation
 
 ### 🎯 **Technical Impact**
@@ -284,6 +256,7 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - **Real-time Systems**: WebSocket, Firebase FCM, and hardware control implementations
 - **Blockchain Innovation**: Smart contract development and multi-chain deployment
 - **Trading Automation**: Professional-grade trading bots with risk management
+- **Data Mining Excellence**: Advanced scraping solutions for complex platforms
 
 ---
 
@@ -313,6 +286,7 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - ⛓️ **DeFi Innovation**: Building advanced DeFi protocols and tools
 - 📱 **Mobile Excellence**: Flutter widgets and component libraries
 - 💰 **Trading Tech**: Advanced algorithmic trading with AI integration
+- 🔍 **Data Mining**: Advanced scraping and data analysis tools
 - 🌐 **Open Source**: Contributing to major frameworks and tools
 
 ### 💡 **Areas of Interest**
@@ -323,6 +297,7 @@ Passionate **Full-Stack Developer** with expertise spanning **Web Development**,
 - **Enterprise Security & Authentication**
 - **Automated Trading & Financial Technology**
 - **Smart City Infrastructure Development**
+- **Advanced Data Mining & Web Scraping**
 
 ---
 
