@@ -1,3 +1,6 @@
+
+
+```markdown
 <!-- 🎭 Welcome to my digital crib!  Grab some coffee ☕ and enjoy the ride -->
 
 <div align="center">
@@ -5,7 +8,7 @@
 # 👋 Yo, I'm **Vanszs**! 
 ### *Fullstack AI Developer - I Build Everything with AI* 🤖
 
-<img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A4%96+Give+me+AI%2C+I'll+build+ANYTHING;%F0%9F%9A%80+Web%3F+Mobile%3F+Blockchain%3F+IoT%3F+YES. ;%F0%9F%92%AA+Not+the+smartest%2C+but+the+most+adaptable;%E2%9A%A1+AI+is+my+superpower%2C+coffee+is+my+fuel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A4%96+Give+me+AI%2C+I'll+build+ANYTHING;%F0%9F%9A%80+Web%3F+Mobile%3F+Blockchain%3F+IoT%3F+YES.;%F0%9F%92%AA+Not+the+smartest%2C+but+the+most+adaptable;%E2%9A%A1+AI+is+my+superpower%2C+coffee+is+my+fuel" alt="Typing SVG" />
 
 <br>
 
@@ -15,7 +18,7 @@
 
 <br>
 
-```ascii
+```
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  🗣️ "I'm not that smart, but with AI, I can be as good as anyone!"        ║
 ║                                                                            ║
@@ -35,21 +38,21 @@
 ## 🎪 **The Quick Lowdown**
 
 | 🔥 What I Am | 🤖 My Weapon | 🐧 My OS | 📍 Base | 💼 Status |
-|: ---:|:---:|:---:|:---:|:---:|
-| Fullstack AI Developer | AI + Determination | Arch Linux BTW | 🇮🇩 Indonesia | Open for Chaos!  |
+|:---:|:---:|:---:|:---:|:---:|
+| Fullstack AI Developer | AI + Determination | Arch Linux BTW | 🇮🇩 Indonesia | Open for Chaos! |
 
 </div>
 
 ---
 
-## 🎯 **Who Am I?  (The Real Talk)**
+## 🎯 **Who Am I? (The Real Talk)**
 
-I'm not the smartest developer out there.  But with **AI as my partner**, I can tackle **anything** - from web development to smart contracts, from mobile apps to trading bots, from IoT systems to machine learning, from speech AI to server hardening.
+I'm not the smartest developer out there. But with **AI as my partner**, I can tackle **anything** - from web development to smart contracts, from mobile apps to trading bots, from IoT systems to machine learning, from speech AI to server hardening.
 
-> **"Fullstack" doesn't just mean frontend + backend.  Fullstack means FULL STACK - every layer of technology, every domain, every platform. And AI is the key that unlocks all those doors. ** 🔑
+> **"Fullstack" doesn't just mean frontend + backend. Fullstack means FULL STACK - every layer of technology, every domain, every platform. And AI is the key that unlocks all those doors.** 🔑
 
 **🧠 My Philosophy:**
-```javascript
+```
 const vanszs = {
   title: "Fullstack AI Developer",
   philosophy: "I don't know everything, but with AI, I can LEARN everything",
@@ -65,7 +68,7 @@ const vanszs = {
     automation: ["Bots", "Scrapers", "Workflow automation"],
     security: ["Network analysis", "Penetration testing", "Server hardening"],
     voice_ai: ["Speech-to-Speech", "Speaker Diarization", "Real-time transcription"],
-    linux:  ["Arch Linux", "System administration", "Shell scripting"],
+    linux: ["Arch Linux", "System administration", "Shell scripting"],
     devops: ["CI/CD", "GitHub Actions", "Docker", "Server management"],
   },
   
@@ -80,7 +83,7 @@ const vanszs = {
 **🎯 The Point Is:**
 - ❌ Not a jack of all trades, master of none
 - ✅ **Jack of all trades, MASTER OF AI-ASSISTED DEVELOPMENT**
-- 🤖 AI = Force multiplier.  Me + AI = Unstoppable. 
+- 🤖 AI = Force multiplier. Me + AI = Unstoppable.
 
 ---
 
@@ -106,7 +109,7 @@ const vanszs = {
 - Managing **Linux servers** with proper hardening and CI/CD pipelines
 - Developed **trading bots** for multiple exchanges
 
-*All with AI assistance.  All delivered. All working. * ✅
+*All with AI assistance. All delivered. All working.* ✅
 
 ---
 
@@ -122,7 +125,7 @@ const vanszs = {
 
 </div>
 
-> **"I use Arch, BTW"** - Yes, I'm one of those people.  😎
+> **"I use Arch, BTW"** - Yes, I'm one of those people. 😎
 
 **🔧 What I Do:**
 | Area | Skills |
@@ -149,22 +152,22 @@ const vanszs = {
 ### 🏛️ **Simokerto PINTAR - Smart City IoT Ecosystem**
 *Complete government digital transformation - Web, Mobile, IoT, all in one* 🚨
 
-> Proof that "Fullstack" isn't just web.  This includes a **web dashboard**, **2 mobile apps**, and **hardware IoT integration** - all in one ecosystem. 
+> Proof that "Fullstack" isn't just web. This includes a **web dashboard**, **2 mobile apps**, and **hardware IoT integration** - all in one ecosystem.
 
 <div align="center">
 
 [![Web Dashboard](https://img.shields.io/badge/🏛️_Web_Dashboard-Next.js_|_TypeScript-0070f3?style=for-the-badge)](https://github.com/Vanszs/Luaran_Website_Keluarahan_Simokerto)
 [![Citizens App](https://img.shields.io/badge/👥_Citizens_App-Flutter_|_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Vanszs/Flutter_Aplikasi_Pintar_Kelurahan)
-[![Officers App](https://img.shields.io/badge/👮_Officers_App-Flutter_|_Dart-02569B? style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Vanszs/Aplikasi_Pintar_Petugas)
+[![Officers App](https://img.shields.io/badge/👮_Officers_App-Flutter_|_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Vanszs/Aplikasi_Pintar_Petugas)
 
 </div>
 
 <details>
-<summary>🔥 <b>Click to see the complete breakdown! </b></summary>
+<summary>🔥 <b>Click to see the complete breakdown!</b></summary>
 <br>
 
 **🎯 Why This Project Matters:**
-This isn't just a website. This is a complete ecosystem spanning **multiple platforms and technologies**: 
+This isn't just a website. This is a complete ecosystem spanning **multiple platforms and technologies**:
 
 | Layer | Technology | What It Does |
 |-------|------------|--------------|
@@ -215,7 +218,7 @@ This isn't just a website. This is a complete ecosystem spanning **multiple plat
 </div>
 
 <details>
-<summary>🏢 <b>See the enterprise architecture! </b></summary>
+<summary>🏢 <b>See the enterprise architecture!</b></summary>
 <br>
 
 **🎯 Project Overview:**
@@ -278,7 +281,7 @@ Freelance project for a government/political institution. Repository is private 
 - **Use Cases**: Meeting transcription, interview analysis, call center AI
 
 **💡 Innovation:**
-This isn't just transcription - it's **understanding conversations** by identifying different speakers automatically. 
+This isn't just transcription - it's **understanding conversations** by identifying different speakers automatically.
 
 </details>
 
@@ -287,9 +290,9 @@ This isn't just transcription - it's **understanding conversations** by identify
 ### 🤖 **Arcalis - Decentralized AI Ecosystem**
 *Privacy-first AI platform with blockchain governance* 🛡️
 
-> Combining **AI**, **Blockchain**, and **Web3** in one platform.  This isn't one domain - it's three domains at once.
+> Combining **AI**, **Blockchain**, and **Web3** in one platform. This isn't one domain - it's three domains at once.
 
-[![Arcalis AI](https://img.shields.io/badge/🤖_Arcalis_AI-AI_+_Blockchain_+_Web3-9333ea?style=for-the-badge)](https://github.com/Vanszs/Manta-Hackaton-v1. 0)
+[![Arcalis AI](https://img.shields.io/badge/🤖_Arcalis_AI-AI_+_Blockchain_+_Web3-9333ea?style=for-the-badge)](https://github.com/Vanszs/Manta-Hackaton-v1.0)
 
 <details>
 <summary>🧠 <b>Expand to see the multi-domain magic!</b></summary>
@@ -317,7 +320,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 ### ⛓️ **BlockTix - Blockchain Event Management**
 *Smart contracts for transparent ticketing* 🎫
 
-> Zero Solidity experience before. With AI, delivered in weeks. 
+> Zero Solidity experience before. With AI, delivered in weeks.
 
 [![BlockTix](https://img.shields.io/badge/🎫_BlockTix-Solidity_|_Web3-f97316?style=for-the-badge)](https://github.com/Vanszs/ICP-BlockTix-Contract)
 
@@ -326,8 +329,8 @@ This isn't just transcription - it's **understanding conversations** by identify
 <br>
 
 **🔗 What I Built (First Time in Solidity!):**
-- 🔒 **Smart Contract Security**:  Event management on-chain
-- 🔗 **Multi-network**:  Ethereum Holesky & Bitfinity deployment
+- 🔒 **Smart Contract Security**: Event management on-chain
+- 🔗 **Multi-network**: Ethereum Holesky & Bitfinity deployment
 - ✨ **Transparent Ticketing**: No more scalpers
 - 💱 **ETH-USD Conversion**: Simplified payments
 
@@ -343,11 +346,11 @@ This isn't just transcription - it's **understanding conversations** by identify
 ### 🛡️ **Network Security Tools**
 *Penetration testing & network analysis* 🔐
 
-> Tools for network security research and ethical hacking. 
+> Tools for network security research and ethical hacking.
 
 <div align="center">
 
-[![MikuMikuBeam](https://img.shields.io/badge/⚡_MikuMikuBeam-Network_Stress_Testing-ff6b6b? style=for-the-badge)](https://github.com/Vanszs/MikuMikuBeamDDOS)
+[![MikuMikuBeam](https://img.shields.io/badge/⚡_MikuMikuBeam-Network_Stress_Testing-ff6b6b?style=for-the-badge)](https://github.com/Vanszs/MikuMikuBeamDDOS)
 [![Evillimiter](https://img.shields.io/badge/🔍_Evillimiter-Bandwidth_Analysis-purple?style=for-the-badge)](https://github.com/Vanszs/Evillimiter)
 
 </div>
@@ -365,7 +368,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 | ⭐ Stars | 17 |
 | 🍴 Forks | 2 |
 
-> An open-source network stresser tool but it's Hatsune Miku themed!  🎤
+> An open-source network stresser tool but it's Hatsune Miku themed! 🎤
 
 **🔍 Evillimiter**
 | Info | Details |
@@ -375,7 +378,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 | 📝 License | MIT |
 | 🔧 Feature | Works without admin access |
 
-> Tool for network analysis - monitor and manage device bandwidth on local networks. 
+> Tool for network analysis - monitor and manage device bandwidth on local networks.
 
 **⚠️ Disclaimer:** These tools are for **educational purposes** and **authorized testing only**. Always get proper permission before testing any network.
 
@@ -386,7 +389,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 ### 💰 **Trading Bots & Financial Tech**
 *Automated trading across multiple exchanges* 📈
 
-> No finance background.  Not a quant. But with AI, can build production-ready trading systems.
+> No finance background. Not a quant. But with AI, can build production-ready trading systems.
 
 <div align="center">
 
@@ -400,7 +403,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 ### 🤖 **AI/ML Projects**
 *From NLP to Computer Vision to Speech AI* 🧠
 
-> Machine learning isn't just theory.  These are real implementations.
+> Machine learning isn't just theory. These are real implementations.
 
 <div align="center">
 
@@ -424,12 +427,12 @@ This isn't just transcription - it's **understanding conversations** by identify
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25? style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🌐 **Web Development**
-![Next.js](https://img.shields.io/badge/Next. js-000000? style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node. js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
@@ -439,7 +442,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 
 ### ⛓️ **Blockchain & Web3**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636? style=for-the-badge&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### 🔌 **IoT & Hardware**
@@ -462,11 +465,11 @@ This isn't just transcription - it's **understanding conversations** by identify
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-black? style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### 🔧 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF? style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -480,16 +483,16 @@ This isn't just transcription - it's **understanding conversations** by identify
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api? username=vanszs&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="180"/>
-<img src="https://github-readme-stats.vercel. app/api/top-langs/? username=vanszs&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanszs&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanszs&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="180"/>
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/? user=vanszs&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanszs&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
 
 <br>
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/? username=vanszs&theme=radical&no-frame=true&row=1&column=7&margin-w=15)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=vanszs&theme=radical&no-frame=true&row=1&column=7&margin-w=15)
 
 </div>
 
@@ -515,8 +518,9 @@ This isn't just transcription - it's **understanding conversations** by identify
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [📈 Crypto API](https://github.com/Vanszs/TugasPemrogrammanCrypto_IndodaxBybitAPI) | Python | Multi-exchange automation |
+| [📈 Crypto API](https://github.com/Vanszs/TugasPemrogrammanCrypto_IndodaxBybitAPI) | TypeScript | Multi-exchange automation |
 | [🚀 AutoTrade Bot](https://github.com/Vanszs/Bybit_AutoTrade) | Python | Risk-managed trading |
+| [💰 XAUUSD Pred Bot](https://github.com/Vanszs/XAUUSD_Pred_Bot) | Python | Gold price prediction |
 
 </details>
 
@@ -551,7 +555,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 |---------|-------|-------------|
 | [🎫 BlockTix](https://github.com/Vanszs/ICP-BlockTix-Contract) | Solidity | Smart contract ticketing |
 | [🏆 Arcalis/Manta](https://github.com/Vanszs/Manta-Hackaton-v1.0) | TypeScript, Web3 | Decentralized AI platform |
-| [📊 D. A.T.A](https://github.com/Vanszs/d. a.t.a) | - | AI Agent authentication |
+| [📊 D.A.T.A](https://github.com/Vanszs/d.a.t.a) | - | AI Agent authentication |
 | [🔧 Web3 Scripts](https://github.com/Vanszs/web3-scripts) | Python | Blockchain automation |
 | [⚡ MEV Toolkit](https://github.com/Vanszs/mev-toolkit) | Shell | MEV operations |
 
@@ -600,7 +604,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 | [🌸 Flower HTML](https://github.com/Vanszs/Flower-html) | CSS animations |
 | [🎨 Kadoo](https://github.com/Vanszs/kadoo) | UI components |
 | [❄️ Login Yeti](https://github.com/Vanszs/Login-yeti) | Creative login |
-| [📱 Portfolio](https://github.com/Vanszs/Vanszs. github.io) | Personal site |
+| [📱 Portfolio](https://github.com/Vanszs/Vanszs.github.io) | Personal site |
 
 </details>
 
@@ -617,7 +621,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 ║                                                                           ║
 ║  🏛️ SMART CITY ARCHITECT    Built complete govt ecosystem in 2 weeks    ║
 ║  🏢 POLITICAL TECH          Live production site for govt institution   ║
-║  ⛓️ BLOCKCHAIN PIONEER       First Solidity project?  Deployed & working  ║
+║  ⛓️ BLOCKCHAIN PIONEER       First Solidity project? Deployed & working  ║
 ║  🤖 AI ORCHESTRATOR          6+ AI models in one platform               ║
 ║  🎤 VOICE AI ENGINEER        Speech-to-Speech with diarization          ║
 ║  📱 MOBILE MASTER            Cross-platform apps that actually work      ║
@@ -627,7 +631,7 @@ This isn't just transcription - it's **understanding conversations** by identify
 ║  🔧 DEVOPS PRACTITIONER      CI/CD, GitHub Actions, Docker              ║
 ║  🔐 SECURITY GUARDIAN        Enterprise-grade auth everywhere            ║
 ║  🧠 ML PRACTITIONER          NLP, CV, Genetic Algorithms, Speech AI     ║
-║  🌐 OPEN SOURCE HERO         46+ repos, full documentation              ║
+║  🌐 OPEN SOURCE HERO         58+ repos, full documentation              ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -653,11 +657,11 @@ This isn't just transcription - it's **understanding conversations** by identify
 - 🌐 **Open Source** - Contributing to major projects
 
 **💡 Philosophy for 2025:**
-> "The goal isn't to know everything.  The goal is to be able to BUILD anything."
+> "The goal isn't to know everything. The goal is to be able to BUILD anything."
 
 ---
 
-## 🌐 **Let's Connect! **
+## 🌐 **Let's Connect!**
 
 <div align="center">
 
@@ -669,8 +673,8 @@ This isn't just transcription - it's **understanding conversations** by identify
 <br>
 
 | 📧 Email | 🌍 Location | 🐧 OS | 💼 Status |
-|: --------:|:-----------:|:-----:|:---------:|
-| [bevansatria@gmail.com](mailto:bevansatria@gmail.com) | Indonesia 🇮🇩 | Arch BTW | Open for Everything!  |
+|:--------:|:-----------:|:-----:|:---------:|
+| [bevansatria@gmail.com](mailto:bevansatria@gmail.com) | Indonesia 🇮🇩 | Arch BTW | Open for Everything! |
 
 **💡 Got a crazy project idea? I probably can build it.**
 
@@ -699,8 +703,8 @@ This isn't just transcription - it's **understanding conversations** by identify
 ║   opportunities for everyone. Every line of code is a step toward a more         ║
 ║   connected, efficient, and safer world."                                         ║
 ║                                                                                   ║
-║   I may not be the smartest developer in the room.                                 ║
-║   But with AI by my side, I can be the most VERSATILE.                             ║
+║   I may not be the smartest developer in the room.                                ║
+║   But with AI by my side, I can be the most VERSATILE.                            ║
 ║                                                                                   ║
 ║   Also, I use Arch, BTW. 🐧                                                       ║
 ║                                                                                   ║
@@ -728,13 +732,13 @@ This isn't just transcription - it's **understanding conversations** by identify
 
 ## 🙏 **Thanks for Reading!**
 
-*If you made it this far, you're awesome. * 💪
+*If you made it this far, you're awesome.* 💪
 
-**Got a project that seems impossible? Hit me up.  With AI, impossible is just a longer prompt. ** 😎
+**Got a project that seems impossible? Hit me up. With AI, impossible is just a longer prompt.** 😎
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⭐%20Star%20if%20you%20believe%20in%20AI-powered%20development! &fontSize=14&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⭐%20Star%20if%20you%20believe%20in%20AI-powered%20development!&fontSize=14&fontColor=ffffff&animation=twinkling"/>
 
 <br>
 
@@ -750,15 +754,16 @@ This isn't just transcription - it's **understanding conversations** by identify
   Easter Egg for fellow devs reading the source: 
   
   Q: How many developers does it take to build a complete system?
-  A:  Just one...  if they have AI 🤖
+  A: Just one... if they have AI 🤖
   
-  Q:  What's the best Linux distro? 
-  A: The one you actually use.  But also Arch.  🐧
+  Q: What's the best Linux distro?
+  A: The one you actually use. But also Arch. 🐧
   
-  The future isn't about knowing everything. 
+  The future isn't about knowing everything.
   It's about being able to LEARN and BUILD anything.
   
   Stay curious, stay humble, stay building 🚀
   
   btw I use arch
 -->
+```
