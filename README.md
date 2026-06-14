@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vanszs
 
-### Full-Stack Dev · Indonesian Student · Serial builder of "ecosystems" that probably should've been one app
+### Full-Stack, AI/ML, Blockchain Dev · Indonesian Student · Serial builder of "ecosystems" that probably should've been one app
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=2D9D78&center=true&vCenter=true&width=580&lines=Web+%E2%80%A2+Mobile+%E2%80%A2+Trading+Bots+%E2%80%A2+AI%2FML;If+there's+an+API%2C+I+will+automate+it;I+code+other+people's+theses+too;A+README+for+my+own+portfolio%3F+Later." alt="Typing SVG" />
 
