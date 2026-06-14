@@ -1,342 +1,185 @@
-# 👋 Hi, I'm Vanszs - The AI-Powered Solo Developer
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI+%2B+Me+%3D+Unstoppable;Solo+Developer+with+AI+Superpowers;From+Zero+to+Hero+with+Code;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
-</div>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vanszs&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/vanszs?label=Followers&style=social)](https://github.com/vanszs)
-[![GitHub User's stars](https://img.shields.io/github/stars/vanszs?affiliations=OWNER&style=social)](https://github.com/vanszs)
+# 👋 Hi, I'm Vanszs (Bevan Satria)
 
-**🗣️ "I'm not that smart, but with AI, I can be as good as anyone! 🦅"**
+### Full-Stack Dev · Indonesian Student · Serial builder of "ecosystems" that probably should've been one app
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=2D9D78&center=true&vCenter=true&width=580&lines=Web+%E2%80%A2+Mobile+%E2%80%A2+Trading+Bots+%E2%80%A2+AI%2FML;If+there's+an+API%2C+I+will+automate+it;I+code+other+people's+theses+too;A+README+for+my+own+portfolio%3F+Later." alt="Typing SVG" />
 
----
+<p>
+<a href="https://github.com/Vanszs"><img src="https://komarev.com/ghpvc/?username=vanszs&label=Profile%20Views&color=2D9D78&style=flat" alt="views" /></a>
+<a href="https://github.com/Vanszs?tab=followers"><img src="https://img.shields.io/github/followers/Vanszs?label=Followers&style=flat&color=2D9D78" alt="followers" /></a>
+<a href="https://linkedin.com/in/bevansatria"><img src="https://img.shields.io/badge/LinkedIn-Bevan%20Satria-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:bevansatria@gmail.com"><img src="https://img.shields.io/badge/Email-bevansatria-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
-## 🎯 **Professional Summary**
-
-Passionate **Full-Stack Developer** with expertise spanning **Web Development**, **Mobile Applications**, **Blockchain Technology**, **IoT Integration**, and **AI-Powered Solutions**. I specialize in creating **scalable ecosystems** that bridge traditional systems with cutting-edge technology, particularly in **government digitalization** and **smart city solutions**.
-
-**🔍 Core Specializations:**
-- **Enterprise Web Applications** (Next.js, TypeScript, React)
-- **Cross-Platform Mobile Development** (Flutter/Dart)
-- **Blockchain & Smart Contracts** (Solidity, Web3)
-- **AI/ML Integration** (LLM, Computer Vision, NLP)
-- **IoT & Real-time Systems** (WebSocket, Firebase, Hardware Integration)
-- **System Architecture** & **DevOps** (Docker, CI/CD)
-
----
-
-## 🌟 **Featured Projects & Ecosystems**
-
-### 🏛️ **Simokerto PINTAR - Smart City IoT Ecosystem** 
-*Complete digital transformation solution for Surabaya government with instant reporting & IoT siren integration*
-
-<div align="center">
-
-[![Simokerto Ecosystem](https://img.shields.io/badge/🏛️%20Web%20Dashboard-Next.js%20|%20TypeScript-blue?style=for-the-badge)](https://github.com/Vanszs/Luaran_Website_Keluarahan_Simokerto)
-[![Citizens App](https://img.shields.io/badge/👥%20Citizens%20App-Flutter%20|%20Dart-02569B?style=for-the-badge&logo=flutter)](https://github.com/Vanszs/Flutter_Aplikasi_Pintar_Kelurahan)
-[![Officers App](https://img.shields.io/badge/👮%20Officers%20App-Flutter%20|%20Dart-02569B?style=for-the-badge&logo=flutter)](https://github.com/Vanszs/Aplikasi_Pintar_Petugas)
+> *"I'm not the smartest in the room — but I'm stubborn, and I have a lot of coffee."* ☕
 
 </div>
 
-**🚨 IoT Innovation Highlights:**
-- **Instant Emergency Reporting** with automated IoT siren activation
-- **Real-time Location Tracking** for emergency response teams
-- **Smart Alert System** with escalation protocols
-- **Hardware Integration** for government infrastructure monitoring
+---
 
-**📊 Project Impact:**
-- **2 Weeks** of intensive development cycle
-- **Enterprise-grade security** with bcrypt, rate limiting, CSRF protection
-- **Real-time communication** via WebSocket & Firebase FCM
-- **Multi-role management** with IoT device control (4+ access levels)
-- **Emergency Response Time** reduced by 60% through instant alerts
+## 🧭 About Me
 
-**🛠️ Technical Architecture:**
-```
-🌐 Web Dashboard     📱 Mobile Apps        🔗 IoT Integration
-├─ Next.js 15       ├─ Flutter 3.0+      ├─ WebSocket
-├─ TypeScript       ├─ Riverpod           ├─ Firebase FCM
-├─ Material-UI      ├─ Material Design 3  ├─ IoT Siren API
-├─ MySQL 8.0        ├─ Shared Preferences ├─ Real-time Sync
-└─ bcrypt Security  └─ Offline Support    └─ Hardware Control
-```
+A student who can't sit still: if there's a real problem, I build the software for it; if there's an API, I automate it; if there's a competition, I enter it. My home turf is **full-stack web** (Next.js + TypeScript) and **Python** (trading, ML, automation), with frequent road trips into **Flutter**, **Solidity**, **MQL5**, and even **ROS 2** for drones.
 
-**🎯 Key Features:**
-- 🔐 **Advanced Security**: Password hashing, session management, SQL injection protection
-- 📊 **Real-time Analytics**: Interactive dashboards with live IoT monitoring
-- 📱 **Offline-First Mobile**: Smart sync with emergency offline capabilities
-- 🚨 **IoT Emergency System**: Automated siren activation for critical incidents
-- 🌐 **Multi-platform**: Web, Android, iOS with hardware integration
+- 🎓 Currently writing my thesis (and quietly helping a few friends with their ML theses too 👀)
+- 🏗️ Addicted to building **multi-app ecosystems** — 1 backend, 2 mobile apps, 1 dashboard, then I'm happy
+- 🤖 I treat AI as a coworker, not a threat — half my tools plug straight into an LLM
+- 🇮🇩 Lots of Indonesia-focused projects: public services, elections, schools, Indodax/IDR
+- 😅 Honest disclaimer: several of my security repos are **forks** (clearly tagged below)
 
 ---
 
-### 🤖 **Arcalis - Decentralized AI Ecosystem**
-*World's first privacy-first AI platform with community governance*
+## 🛠️ Tech Stack
 
-[![Arcalis AI](https://img.shields.io/badge/🤖%20Arcalis%20AI-Decentralized%20Platform-purple?style=for-the-badge)](https://github.com/Vanszs/Manta-Hackaton-v1.0)
-
-**🚀 Innovation Highlights:**
-- **6+ AI Models** integrated (DeepSeek R1, Gemini 2.0, Microsoft Phi-4)
-- **Zero-Knowledge Proofs** via Manta Network integration
-- **DAO Governance** with quadratic voting system
-- **90% cheaper** than traditional AI platforms
-- **Carbon-neutral** infrastructure
-
-**⚙️ Tech Stack:**
-- **Frontend**: TypeScript, React, Modern UI/UX
-- **Blockchain**: Manta Network, Solidity Smart Contracts
-- **AI Integration**: Multi-model orchestration
-- **Governance**: On-chain voting & treasury management
-
----
-
-### ⛓️ **BlockTix - Blockchain Event Management**
-*Decentralized ticketing system with smart contract security*
-
-[![BlockTix](https://img.shields.io/badge/🎫%20BlockTix-Blockchain%20Ticketing-orange?style=for-the-badge)](https://github.com/Vanszs/ICP-BlockTix-Contract)
-
-**🔗 Blockchain Features:**
-- **Smart Contract Security**: Solidity-based event management
-- **EVM Compatible**: Ethereum Holesky & Bitfinity networks
-- **Transparent Ticketing**: On-chain ticket issuance
-- **Fixed Rate Conversion**: ETH-to-USD simplified exchange
-
-**📈 Development Stats:**
-- **17 Commits** of blockchain development
-- **Multiple Networks** deployment ready
-- **React Frontend** with Web3 integration
-
----
-
-## 🛠️ **Technical Expertise**
-
-<div align="center">
-
-### **Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-2E86C1?style=for-the-badge&logo=tradingview&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Frontend Technologies**
+**Frontend & Mobile**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### **Blockchain & Web3**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-8A4182?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### **IoT & Hardware Integration**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-
-### **DevOps & Tools**
+**AI / ML & More**
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+---
+
+## 🚀 Featured Projects (the ones with actual substance)
+
+### 🏫 [JagaSekolah](https://github.com/Vanszs/JagaSekolah) — Early Dropout Warning System
+An early-warning system that flags students at risk of dropping out (elementary/middle school), built for the **LIDM ITDP** competition. It detects risk from attendance, grades, and economic factors — then suggests **interventions, not punishment**.
+- **Stack:** Next.js 15 · TypeScript · Prisma 6 · PostgreSQL/PgBouncer · Auth.js v5 · Recharts · PWA (Serwist + Dexie)
+- **Highlights:** a **deterministic rule-based scoring engine** (ABC framework: Attendance/Behavior/Course + local context), offline-first with a sync queue + idempotency keys, RBAC, AES-GCM encrypted backups, and a Dapodik CSV/Excel importer.
+- 😅 *An app that saves kids from dropping out, with a README longer than the kids' actual essays. Ships with Docker and audit logs — enterprise software for schools whose wifi flickers.*
+
+### 🔱 [VansRouter](https://github.com/Vanszs/VansRouter) — AI Router for 40+ Providers `🍴 fork of 9Router`
+A router/proxy that connects AI coding tools (Claude Code, Cursor, Codex, etc.) to 40+ providers with **auto-fallback** and **RTK token compression (saves 20–40%)**.
+- **Stack:** JavaScript/Node · Next.js (server) · Python · Docker
+- **Highlights:** per-API-key ACL, 3-tier fallback (subscription → cheap → free), Windows support that actually works (cmd/PowerShell, no bash needed), tool-call reliability fixes.
+- 😅 *Forked a popular router, then immediately wrote a comparison table roasting the original's Windows support. Gives full credit to upstream while explaining, in detail, why upstream is grumpy. Peak open-source energy.*
+
+### 🏛️ **Simokerto PINTAR** Ecosystem — Smart City KKN (4 integrated repos)
+Digitalizing sub-district (kelurahan) services in Simokerto, Surabaya. A full ecosystem: backend + 2 mobile apps + a web dashboard, complete with an **ESP32 IoT siren**.
+
+| Component | Repo | Stack |
+|---|---|---|
+| 🌐 Web Dashboard | [Luaran_Website_…_Simokerto](https://github.com/Vanszs/Luaran_Website_Keluarahan_Simokerto) | Next.js 15 · TypeScript |
+| 📱 Citizen App ("Lapor Maling") | [Flutter_Aplikasi_Pintar_Kelurahan](https://github.com/Vanszs/Flutter_Aplikasi_Pintar_Kelurahan) | Flutter · Riverpod · Firebase · Socket.IO |
+| 👮 Officer App | [Aplikasi_Pintar_Petugas](https://github.com/Vanszs/Aplikasi_Pintar_Petugas) | Flutter · FCM · WebSocket |
+| 🔌 Backend + IoT | [pintar-api-main](https://github.com/Vanszs/pintar-api-main) | Express · MySQL · ESP32 (C++) |
+
+- 😅 *The citizen app is literally called "Lapor Maling" (Report a Thief) and has offline support — because catching thieves must keep working even when the signal drops. Also, the entire backend lives in one `main.js` file, and the README proudly admits it.*
+
+### 🏛️ [Nasdem_Web_V2.0](https://github.com/Vanszs/Nasdem_Web_V2.0) — Political Site + Election Analytics `(freelance)`
+The official site for DPD NasDem Sidoarjo: public info + a multi-tier admin CMS with **election analytics per candidate/dapil/district/polling station (TPS)**.
+- **Stack:** Next.js 15 · TypeScript · Tailwind v4 · shadcn/ui · Supabase (Postgres + Auth + RLS)
+- **Highlights:** 3 admin tiers, scheduled WhatsApp broadcasts, Row-Level Security.
+
+### 📊 [Channel-Pulse](https://github.com/Vanszs/Channel-Pulse) — YouTube Competitor Analytics
+Paste a channel URL → get a performance dashboard built on a custom **momentum score** (views reach, views/day, engagement, velocity, recency) with breakout/cooling labels + CSV export.
+- **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind 4 · YouTube Data API v3
+- 😅 *Built an entire YouTube analytics SaaS with zero charting libraries. Either deeply principled or a flex. The scoring formula is suspiciously well-calibrated for someone who "just" peeks at competitors.*
+
+### 🩺 [Speach-To-Speach-Diarization](https://github.com/Vanszs/Speach-To-Speach-Diarization) — "Consultation Scribe AI"
+A tool for psychologists: record a session → separate speakers (Psychologist vs Patient) → auto-generate **SOAP clinical notes**.
+- **Stack:** Next.js · FastAPI · WhisperX (diarization) · LLM · wav2vec2 ID/Javanese/Sundanese model
+- 😅 *The repo is named "Speach-To-Speach" (permanent typo), but the product is genuinely useful. The typo is the personality.*
+
+---
+
+## 💹 Trading & Quant (Python · MQL5)
+
+| Project | Type | Summary |
+|---|---|---|
+| [Bybit_AutoTrade](https://github.com/Vanszs/Bybit_AutoTrade) | Original | Multi-exchange trading bot (7 exchanges) with a **Telegram Bot + MCP Server** for Claude/AI integration and XGBoost signals. |
+| [MT5_BOT](https://github.com/Vanszs/MT5_BOT) | Original | MetaTrader 5 Expert Advisor: **XAUUSD DCA ladder** strategy + RSI filter + anti-margin-call system. 20MB of MQL5. |
+| [XauBot](https://github.com/Vanszs/XauBot) | 🍴 fork | Gold bot: 37-feature XGBoost + **Smart Money Concepts** + **HMM** regime detection + web dashboard. |
+| [TradingAgents](https://github.com/Vanszs/TradingAgents) | 🍴 fork | Multi-agent LLM trading framework (from the arXiv 2412.20138 paper). |
+| [backend-screener-crypto](https://github.com/Vanszs/backend-screener-crypto) | Original | Real-time crypto screener (**Go** + WebSocket, ~200 pairs, RSI/EMA/Bollinger/ATR/VWAP). |
+
+😅 *Net result: I support more exchanges than I have trading accounts. And yes, that's more MQL5 than the average trader has read of the docs.*
+
+---
+
+## 🛡️ Security & 🤖 Automation (transparent: many are forks)
+
+| Project | Type | Summary |
+|---|---|---|
+| [NewMikuMikuBeamDDOS](https://github.com/Vanszs/NewMikuMikuBeamDDOS) ⭐22 | 🍴 fork | Anime-themed Layer 7 stress-testing tool, real-time UI (EN/ID/中文), 8 methods including CVE-2023-44487. **My most-starred repo.** |
+| [Sentinel_Security](https://github.com/Vanszs/Sentinel_Security) | Original | A VS Code extension for **AI-powered pentesting** — Nuclei/Nmap/SQLmap via MCP, OWASP/MITRE mapping. |
+| [Cyber-Claude](https://github.com/Vanszs/Cyber-Claude) | 🍴 fork | Autonomous cybersecurity agent (Claude/GPT/Gemini via MCP), red + blue team. |
+| [Evillimiter](https://github.com/Vanszs/Evillimiter) · [hawk](https://github.com/Vanszs/hawk) | 🍴 fork | LAN bandwidth limiter (ARP) & network recon toolkit. |
+
+😅 *"Limit bandwidth without admin access" is a very polite way to describe what this does to your roommate's gaming session.*
+
+---
+
+## ⛓️ Blockchain / Web3
+
+- 🤖 [Manta-Hackaton-v1.0 "Arcalis"](https://github.com/Vanszs/Manta-Hackaton-v1.0) — A decentralized AI platform on Manta Network: **quadratic-voting DAO**, ZK privacy, routing across 6+ AI models. *(Original)*
+- 🎫 [ICP-BlockTix-Contract](https://github.com/Vanszs/ICP-BlockTix-Contract) — On-chain event ticketing (Solidity, Truffle, OpenZeppelin). *Named "ICP" but actually deployed on Ethereum testnets (Holesky/Bitfinity) — an identity crisis, now at peace.*
+- 🔗 [d.a.t.a](https://github.com/Vanszs/d.a.t.a) `🍴 fork` · [mev-toolkit](https://github.com/Vanszs/mev-toolkit) `🍴 fork` · [web3-scripts](https://github.com/Vanszs/web3-scripts)
+
+---
+
+## 🤖 Robotics & Academic
+
+- 🚁 [KRTI_Dirgasena_2025_VTOL](https://github.com/Vanszs/KRTI_Dirgasena_2025_VTOL) — An **autonomous hexacopter drone** system for the FAIO 2025 competition: takeoff → navigate 12 checkpoints → object detection (YOLO) → pick up/drop objects with a magnet → auto-land. **ROS 2 Humble** + Python, with `just` as the task runner.
+- 📓 A few `Skripsi_*` repos — Jupyter-based ML experiments (helping friends' research).
+- 😅 *Uses `just` (not Makefiles) to build robots — caring about Developer Experience even while flying drones.*
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vanszs&show_icons=true&count_private=true&hide_border=true&theme=vue" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanszs&layout=compact&langs_count=8&hide_border=true&theme=vue" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanszs&hide_border=true&theme=vue" />
 
 </div>
 
 ---
 
-## 📊 **Development Statistics**
+## 🔮 Currently Focused On
 
-<div align="center">
-
-### **GitHub Analytics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanszs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanszs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-### **Contribution Metrics**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanszs&theme=tokyonight&hide_border=true)
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=vanszs&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
-**📈 Project Portfolio Metrics:**
-- **46+ Public Repositories** across multiple domains
-- **300+ Total Commits** in major projects
-- **Multi-language Proficiency**: TypeScript (68%), Dart (88%), Python (45%), JavaScript (30%)
-- **Cross-platform Experience**: Web, Mobile, Blockchain, IoT
-- **Enterprise Security Focus**: 100% secure authentication implementations
-
----
-
-## 🏗️ Portfolio Projects by Category
-
-### 🏛️ **Government & Smart City Tech** (2024-2025)
-- **[🌐 Simokerto PINTAR Web](https://github.com/Vanszs/Luaran_Website_Keluarahan_Simokerto)** - Next.js admin dashboard with IoT integration
-- **[📱 Citizen Report App](https://github.com/Vanszs/Flutter_Aplikasi_Pintar_Kelurahan)** - Flutter app with offline/online sync & emergency features
-- **[👮 Officer Management App](https://github.com/Vanszs/Aplikasi_Pintar_Petugas)** - Real-time notification system with IoT siren control
-
-### 💰 **Trading & Financial Tech** (2024-2025)
-- **[📈 Crypto API Integration](https://github.com/Vanszs/TugasPemrogrammanCrypto_IndodaxBybitAPI)** - Multi-exchange trading automation with Indodax and Bybit APIs
-- **[🚀 Bybit AutoTrade](https://github.com/Vanszs/Bybit_AutoTrade)** - Advanced trading bot with risk management
-
-### 🔍 **Data Mining & Scraping** (2024-2025)
-- **[🔧 Toolify Scraper](https://github.com/Vanszs/toolify_scrap)** - Tool for scraping shared account data from Toolify browser extension
-
-### 🤝 **Collaboration & Archive** (2024-2025)
-- **[📁 Collab Archive](https://github.com/Vanszs/collab-archive)** - Team collaboration and project archiving platform
-
-### 💼 **Professional & Internship** (2024)
-- **[🏢 IGS Internship Web](https://github.com/Vanszs/Magang_Web_IGS)** - TypeScript enterprise web application
-- **[📱 IGS Flutter Project](https://github.com/Vanszs/Flutter_Project_IGS_Magang)** - Cross-platform mobile development
-- **[🛒 E-commerce TALL Stack](https://github.com/Vanszs/MINIMAL-ECOMERCE-TALL-STACK)** - Laravel, Tailwind, Livewire
-
-### ⛓️ **Blockchain & Web3** (2024)
-- **[🎫 ICP BlockTix Contract](https://github.com/Vanszs/ICP-BlockTix-Contract)** - Solidity smart contracts for ticketing
-- **[🏆 Manta Hackathon](https://github.com/Vanszs/Manta-Hackaton-v1.0)** - TypeScript DeFi application
-- **[📊 D.A.T.A Framework](https://github.com/Vanszs/d.a.t.a)** - AI Agent data authentication (Forked & Enhanced)
-- **[🔧 Web3 Scripts](https://github.com/Vanszs/web3-scripts)** - Python automation tools
-- **[⚡ MEV Toolkit](https://github.com/Vanszs/mev-toolkit)** - Shell scripts for MEV operations
-
-### 🤖 **AI/ML & Automation** (2024)
-- **[🧠 Transformer Sentiment Analysis](https://github.com/Vanszs/Transformer_Sentiment_Analyze)** - Advanced NLP models
-- **[🧬 Evolution Strategies](https://github.com/Vanszs/Evolution_Strategies)** - Genetic algorithms implementation
-- **[🚗 YOLO Autonomous](https://github.com/Vanszs/yolo-autonomus)** - Computer vision for autonomous systems
-- **[📋 Logbook Automation](https://github.com/Vanszs/Silaturahmi-Logbook-Automation)** - Python workflow automation
-
-### 🤖 **Automation Bots** (2024)
-- **[💰 HotWallet Bot](https://github.com/Vanszs/HotWalletBot)** - Web3 wallet automation bot
-- **[🌊 Wave Bot](https://github.com/Vanszs/Wave-Bot)** - Blockchain airdrop automation
-- **[🚀 Omni Bot](https://github.com/Vanszs/OnmiBot)** - Multi-chain account creation bot
-- **[😂 Meme Bot](https://github.com/Vanszs/MemeBot)** - Memefi airdrop automation
-- **[🎯 Va Bot](https://github.com/Vanszs/Va)** - WhatsApp JavaScript automation framework
-
-### 🌐 **Web Development & Design** (2024)
-- **[🌊 Nautical Nusantara](https://github.com/Vanszs/NauticalNusantara)** - Competition website 
-- **[🌸 Flower HTML](https://github.com/Vanszs/Flower-html)** - Creative CSS animations
-- **[🎨 Kadoo](https://github.com/Vanszs/kadoo)** - Modern UI components
-- **[❄️ Login Yeti](https://github.com/Vanszs/Login-yeti)** - Creative login interface
-- **[📱 Personal Portfolio Sites](https://github.com/Vanszs/Vanszs.github.io)** - HTML/CSS showcases
-
-### 🛡️ **Security & Tools** (2024)
-- **[🔒 Free Proxy](https://github.com/Vanszs/Free-Proxy)** - Proxy list management (Forked & Enhanced)
-- **[⚡ MikuMiku Beam DDoS](https://github.com/Vanszs/MikuMikuBeamDDOS)** - Network stress testing (13⭐, Forked & Enhanced)
-
----
-
-## 🏆 **Professional Achievements**
-
-### 🥇 **Development Milestones**
-- ✅ **Complete Smart City Ecosystem Builder** - Created 3-app integrated government solution with IoT
-- ✅ **Security Specialist** - Implemented enterprise-grade authentication systems
-- ✅ **Blockchain Pioneer** - Deployed smart contracts on multiple networks
-- ✅ **AI Integration Expert** - Built multi-model orchestration platforms
-- ✅ **IoT Innovation Leader** - Integrated hardware control with software systems
-- ✅ **Trading Automation Expert** - Multi-exchange automated trading systems
-- ✅ **Data Mining Specialist** - Built specialized scraping tools for various platforms
-- ✅ **Open Source Contributor** - 46+ public repositories with comprehensive documentation
-
-### 🎯 **Technical Impact**
-- **Government Digitalization**: Modernized Surabaya public service delivery with IoT integration
-- **Emergency Response**: Reduced response time by 60% through instant IoT alert systems
-- **Security Enhancement**: Implemented bcrypt, rate limiting, CSRF protection across all projects
-- **Cross-platform Expertise**: Seamless web-mobile-IoT integration
-- **Real-time Systems**: WebSocket, Firebase FCM, and hardware control implementations
-- **Blockchain Innovation**: Smart contract development and multi-chain deployment
-- **Trading Automation**: Professional-grade trading bots with risk management
-- **Data Mining Excellence**: Advanced scraping solutions for complex platforms
-
----
-
-## 🌐 **Connect & Collaborate**
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://vanszs.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bevansatria)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourjungler)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/belugaa99)
-
-**📧 Email**: [bevansatria@gmail.com](mailto:bevansatria@gmail.com)
-**🌍 Location**: Indonesia
-**💼 Open to**: Freelance Projects, Collaborations, Full-time Opportunities
-
-</div>
-
----
-
-## 🔮 **Current Focus & Future Goals**
-
-### 🎯 **2025 Roadmap**
-- 🚀 **AI Integration**: Expanding Arcalis ecosystem with more LLM models
-- 🏛️ **Smart City Tech**: Scaling Simokerto PINTAR to other Indonesian cities
-- 🚨 **IoT Innovation**: Advanced sensor integration and emergency response systems
-- ⛓️ **DeFi Innovation**: Building advanced DeFi protocols and tools
-- 📱 **Mobile Excellence**: Flutter widgets and component libraries
-- 💰 **Trading Tech**: Advanced algorithmic trading with AI integration
-- 🔍 **Data Mining**: Advanced scraping and data analysis tools
-- 🌐 **Open Source**: Contributing to major frameworks and tools
-
-### 💡 **Areas of Interest**
-- **Decentralized AI & Privacy-Preserving ML**
-- **Government Digital Transformation with IoT**
-- **Cross-chain Blockchain Solutions**
-- **Real-time Communication & Emergency Systems**
-- **Enterprise Security & Authentication**
-- **Automated Trading & Financial Technology**
-- **Smart City Infrastructure Development**
-- **Advanced Data Mining & Web Scraping**
-
----
-
-## 📈 **GitHub Activity**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanszs&theme=react-dark&hide_border=true" />
-
-</div>
-
----
-
-## 💭 **Philosophy**
-
-> *"Technology should empower communities, enhance security, and create opportunities for everyone. Every line of code is a step toward a more connected, efficient, and safer world. From smart cities to decentralized finance, innovation thrives when purpose meets possibility."*
-
-**🌟 Core Values:**
-- **Innovation with Purpose** - Building solutions that matter for real-world problems
-- **Security First** - No compromise on user safety and data protection  
-- **Open Collaboration** - Knowledge sharing and community building
-- **Continuous Learning** - Embracing new technologies and methodologies
-- **Real-world Impact** - Creating tangible improvements in people's lives
-- **Responsible Technology** - Ethical development and sustainable solutions
+- 🏫 Polishing **JagaSekolah** for LIDM (offline PWA + calibrating the scoring with a partner school)
+- 💹 Quant research: combining ML + Smart Money Concepts for gold trading
+- 🤖 AI-powered developer tooling (routers, security agents, MCP servers)
+- 🧹 ...and one day, writing a README for my own portfolio repo 😌
 
 ---
 
 <div align="center">
 
-### 🙏 **Thanks for visiting my profile!**
+**Let's talk** · 📧 [bevansatria@gmail.com](mailto:bevansatria@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/bevansatria) · 📍 Indonesia
 
-*Feel free to explore my repositories, fork interesting projects, or reach out for collaboration opportunities.*
-
-**⭐ If you find my work valuable, consider giving my repositories a star!**
-
----
-
-**Made with ❤️ by Vanszs**
-
-*Last Updated: January 2025*
+⭐ *If a repo looks interesting, drop a star — so `HotWalletBot` isn't lonely with its single one.*
 
 </div>
