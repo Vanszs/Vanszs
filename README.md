@@ -33,41 +33,90 @@ A student who can't sit still: if there's a real problem, I build the software f
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-2E86C1?style=for-the-badge&logo=tradingview&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Frontend & Mobile**
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-**Backend & Data**
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
+![Material Design 3](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4353FF?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Databases & Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PgBouncer](https://img.shields.io/badge/PgBouncer-2D3748?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/Dexie%2FIndexedDB-EF5350?style=for-the-badge&logo=javascript&logoColor=white)
 
-**AI / ML & More**
+### AI / ML
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Whisper](https://img.shields.io/badge/WhisperX-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Blockchain / Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+### IoT & Robotics
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-0A0A0A?style=for-the-badge&logo=tradingview&logoColor=white)
+
+### DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+</div>
 
 ---
 
@@ -157,14 +206,71 @@ A tool for psychologists: record a session → separate speakers (Psychologist v
 
 ---
 
+## 🧠 AI Tooling & Apps
+
+| Project | Type | Summary |
+|---|---|---|
+| [autoclipper](https://github.com/Vanszs/autoclipper) | 🍴 fork | AI video highlight auto-clipper — downloads YouTube/Bilibili, finds highlights with a Qwen LLM, auto-cuts compilations (FastAPI + Celery + Redis + React). |
+| [openclaw-langchain](https://github.com/Vanszs/openclaw-langchain) | Original | A cross-platform personal AI assistant experiment (LangChain-flavored). |
+| [Resume-Matcher](https://github.com/Vanszs/Resume-Matcher) | 🍴 fork | Tune resumes to job descriptions with keyword insights. |
+| [genai-shadow-vp](https://github.com/Vanszs/genai-shadow-vp) | Original | A small GenAI experiment in Python. |
+
+---
+
+## 🌐 Web, Freelance & Coursework
+
+| Project | Stack | Note |
+|---|---|---|
+| [TugasPemrogrammanCrypto_IndodaxBybitAPI](https://github.com/Vanszs/TugasPemrogrammanCrypto_IndodaxBybitAPI) | Next.js 15 · React 19 · WebSocket | A class assignment that turned into a real-time Indodax + Bybit dashboard. *(Yes, the repo name has a typo. No, I won't rename it.)* |
+| [SkyWay_Web](https://github.com/Vanszs/SkyWay_Web) | TypeScript · Next.js | 500K+ lines of TypeScript and still no README — the mystery repo. |
+| [Magang_Web_IGS](https://github.com/Vanszs/Magang_Web_IGS) · [Flutter_Project_IGS_Magang](https://github.com/Vanszs/Flutter_Project_IGS_Magang) | Next.js · Flutter | Internship work (web + mobile) at IGS. |
+| [MINIMAL-ECOMERCE-TALL-STACK](https://github.com/Vanszs/MINIMAL-ECOMERCE-TALL-STACK) ⭐1 | Laravel · TALL | Minimal e-commerce on the TALL stack. |
+| [NauticalNusantara](https://github.com/Vanszs/NauticalNusantara) · [kadoo](https://github.com/Vanszs/kadoo) · [Login-yeti](https://github.com/Vanszs/Login-yeti) | HTML/CSS/JS | Early creative front-end & UI experiments. |
+
+---
+
+## 🗂️ Project Archive (by category)
+
+<details>
+<summary><b>Click to expand the full catalog</b> — yes, there are a lot</summary>
+
+**🌐 Web & Smart City**
+`JagaSekolah` · `Nasdem_Web_V2.0` · `Luaran_Website_Keluarahan_Simokerto` · `Flutter_Aplikasi_Pintar_Kelurahan` · `Aplikasi_Pintar_Petugas` · `pintar-api-main` · `Channel-Pulse` · `SkyWay_Web` · `Magang_Web_IGS` · `porto-webv2`
+
+**💹 Trading & Quant**
+`Bybit_AutoTrade` · `MT5_BOT` · `XauBot` 🍴 · `TradingAgents` 🍴 · `backend-screener-crypto` · `XAUUSD_Pred_Bot` · `TugasPemrogrammanCrypto_IndodaxBybitAPI`
+
+**🤖 AI / ML**
+`Speach-To-Speach-Diarization` · `autoclipper` 🍴 · `openclaw-langchain` · `Transformer_Sentiment_Analyze` · `yolo-autonomus` · `Resume-Matcher` 🍴 · `genai-shadow-vp`
+
+**🛡️ Security & Networking**
+`NewMikuMikuBeamDDOS` 🍴 ⭐22 · `Sentinel_Security` · `Cyber-Claude` 🍴 · `Evillimiter` 🍴 · `hawk` 🍴 · `Free-Proxy` 🍴
+
+**⛓️ Blockchain / Web3**
+`Manta-Hackaton-v1.0` · `ICP-BlockTix-Contract` · `d.a.t.a` 🍴 · `mev-toolkit` 🍴 · `web3-scripts`
+
+**🤖 Automation Bots**
+`HotWalletBot` ⭐1 · `OnmiBot` · `Wave-Bot` · `MemeBot` · `Carv-Bot` · `Va` (WhatsApp)
+
+**🚁 Robotics & Tooling**
+`KRTI_Dirgasena_2025_VTOL` · `VansRouter` 🍴 · `home-config-backup`
+
+</details>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vanszs&show_icons=true&count_private=true&hide_border=true&theme=vue" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanszs&layout=compact&langs_count=8&hide_border=true&theme=vue" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanszs&layout=compact&langs_count=10&hide_border=true&theme=vue" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanszs&hide_border=true&theme=vue" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vanszs&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanszs&theme=github-compact&hide_border=true" />
 
 </div>
 
