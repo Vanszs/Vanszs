@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vanszs
+# 👋 Hi, I'm Vanszs (Bevan Satria)
 
 ### Full-Stack Dev · Indonesian Student · Serial builder of "ecosystems" that probably should've been one app
 
@@ -23,11 +23,11 @@
 
 A student who can't sit still: if there's a real problem, I build the software for it; if there's an API, I automate it; if there's a competition, I enter it. My home turf is **full-stack web** (Next.js + TypeScript) and **Python** (trading, ML, automation), with frequent road trips into **Flutter**, **Solidity**, **MQL5**, and even **ROS 2** for drones.
 
-- 🎓 Currently writing my thesis (and quietly helping a few friends with their ML theses too 👀)
-- 🏗️ Addicted to building **multi-app ecosystems** — 1 backend, 2 mobile apps, 1 dashboard, then I'm happy
-- 🤖 I treat AI as a coworker, not a threat — half my tools plug straight into an LLM
-- 🇮🇩 Lots of Indonesia-focused projects: public services, elections, schools, Indodax/IDR
-- 😅 Honest disclaimer: several of my security repos are **forks** (clearly tagged below)
+- 🎓 Currently writing my thesis (and occasionally helping friends with their ML projects)
+- 🧩 I like shipping things end-to-end — from database and API to the UI people actually click
+- 🤖 I treat AI as a coworker, not a threat — and enjoy building tools that wire into LLMs
+- 🌱 Always poking at something new: web, mobile, trading, ML, security, a bit of robotics
+- 😅 Honest disclaimer: several of my repos are **forks** I learn from or extend (clearly tagged below)
 
 ---
 
