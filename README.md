@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vanszs (Bevan Satria)
+# 👋 Hi, I'm Vanszs
 
 ### Full-Stack Dev · Indonesian Student · Serial builder of "ecosystems" that probably should've been one app
 
